@@ -35,8 +35,6 @@ La implemetancion de MQTT aporto de forma muy grande al acceso sostenible de las
 
 
 
-* **Inclusión ante la Brecha Digital** 
+* **Inclusión ante la Brecha Digital: permite que a pesar de no tener grandes dispositivos tecnologicos, puedan gozar de algunos beneficios que ellos no han podido tener por la misma brecha.** 
 
-* **Ahorro Energético** 
-
-* **Justicia Tecnológica**
+* **Ahorro Energético: Menos datos implica menor cantidad de uso de energia lo cual es muy util en el contexto planteado para usar MQTT** 
