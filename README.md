@@ -1,5 +1,5 @@
 # MQTT
-## Pregunta Crítica: ¿Por qué REST (HTTP) no sirve para sensores de alta frecuencia?
+## ¿Por qué REST (HTTP) no sirve para sensores de alta frecuencia?
 
 
 
@@ -15,7 +15,7 @@ Principalmente por 2 razones:
 
 
 
-## Pregunta Práctica: ¿Cuándo usar QoS 2 en lugar de QoS 0?
+## ¿Cuándo usar QoS 2 en lugar de QoS 0?
 
 
 
